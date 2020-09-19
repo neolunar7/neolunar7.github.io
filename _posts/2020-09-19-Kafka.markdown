@@ -13,7 +13,7 @@ description: "Kafka 101"
 
 # Kafka Architecture
 - In high terms, Kafka consists of Broker and Zookeeper.
-### Zookeeper
+## Zookeeper
 - Keeps the Kafka cluster's status.
 - Elects the controller among Brokers.
 
