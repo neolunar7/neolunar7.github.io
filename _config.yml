@@ -9,7 +9,7 @@ description: only my simple vision of casper theme
 baseurl: ""
 url: "https://neolunar7.github.io"
 github_username: neolunar7
-github_url: https://neolunar7.github.io/
+github_url: https://neolunar7.github.io
 
 # Build settings
 permalink: :title
