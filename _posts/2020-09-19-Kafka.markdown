@@ -10,9 +10,12 @@ description: "Kafka 101"
 - Kafka is specialized in distributed environment, resulting in high throughput.
 - Kafka is able to persist data on disk, therefore enabling the durability.
 - Kafka replicates data, enabling the parallel processing of data and also lowers the risk of data loss.
+
 ---
+
 # Kafka Architecture
 - In high terms, Kafka consists of Broker and Zookeeper.
+
 **Zookeeper**
 - Keeps the Kafka cluster's status.
 - Elects the controller among Brokers.
